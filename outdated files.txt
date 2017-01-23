@@ -1,0 +1,2 @@
+\mods\example-1.1.jar
+\config\example\example.cfg

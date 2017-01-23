@@ -1,0 +1,5 @@
+pack=ExamplePack
+author=MissPotato
+updateVersion=0.00
+lastVersion=0.01
+
